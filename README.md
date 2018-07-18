@@ -11,7 +11,7 @@
 ----
 
 ### 1 fundamentals
-#### [1.1 Programming Model](https://github.com/Mereder/Algorithms_4th/tree/master/src/com/mereder/Algs_Exercise/Exercises1_1 )  <br />
+  * #### [1.1 Programming Model](https://github.com/Mereder/Algorithms_4th/tree/master/src/com/mereder/Algs_Exercise/Exercises1_1 )  <br />
 #### [1.2 Data Abstraction](https://github.com/Mereder/Algorithms_4th/tree/master/src/com/mereder/Algs_Exercise/Exercises1_2 ) <br />
 #### 1.3 Bags, Queues, and Stacks <br>
 #### 1.4 Analysis of Algorithms
