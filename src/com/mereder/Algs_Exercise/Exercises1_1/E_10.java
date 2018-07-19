@@ -9,7 +9,7 @@ package com.mereder.Algs_Exercise.Exercises1_1;
  */
 public class E_10 {
     public static void main(String[] args) {
-        int a[] ;
+        int a[]  = new int[10];
         for (int i = 0; i < 10; i++) {   //unexpected token
             a[i] = i * i;
         }
