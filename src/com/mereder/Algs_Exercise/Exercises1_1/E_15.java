@@ -34,7 +34,5 @@ public class E_15 {
         System.out.println("返回数组元素相加之和为："+sum);
         System.out.println("数组a长度为："+a.length);
 
-
-
     }
 }
