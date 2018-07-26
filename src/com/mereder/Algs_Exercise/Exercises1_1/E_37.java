@@ -2,8 +2,6 @@ package com.mereder.Algs_Exercise.Exercises1_1;
 
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;
-
-
 /**
  * 糟糕的打乱：数组中的所有元素的值不接近N/M 且值之间相差较大
  */

@@ -1,7 +1,5 @@
 package com.mereder.Algs_Exercise.Exercises1_1;
 
-import edu.princeton.cs.algs4.StdRandom;
-
 import java.util.Arrays;
 
 /**

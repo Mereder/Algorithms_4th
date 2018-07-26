@@ -3,11 +3,6 @@ package com.mereder.Algs_Exercise.Exercises1_1;
 import edu.princeton.cs.algs4.Queue;
 import edu.princeton.cs.algs4.StdOut;
 
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.Stack;
-
-
 /**
  * 斐波那契数列
  *

@@ -1,5 +1,8 @@
 package com.mereder.Algs_Exercise.Exercises1_1;
 
+/**
+ * 给出以下表达式的类型和值
+ */
 public class E_2 {
     public static void main(String[] args) {
         System.out.println((1 + 2.236) / 2);

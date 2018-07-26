@@ -1,5 +1,8 @@
 package com.mereder.Algs_Exercise.Exercises1_1;
 
+/**
+ * 给出以下表达式的值
+ */
 public class E_1 {
     public static void main(String[] args) {
         System.out.println((0 + 15) / 2);

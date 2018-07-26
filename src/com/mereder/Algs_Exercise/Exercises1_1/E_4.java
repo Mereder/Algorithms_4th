@@ -1,5 +1,8 @@
 package com.mereder.Algs_Exercise.Exercises1_1;
 
+/**
+ * 以下语句有什么问题
+ */
 public class E_4 {
     public static void main(String[] args) {
         int  a = 2,b=3,c=0;

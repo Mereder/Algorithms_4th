@@ -1,6 +1,5 @@
 package com.mereder.Algs_Exercise.Exercises1_1;
 
-import sun.font.FontRunIterator;
 
 /**
  * 数组练习：
@@ -37,7 +36,5 @@ public class E_30 {
             }
         }
         System.out.println("");
-
-
     }
 }

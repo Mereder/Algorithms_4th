@@ -1,7 +1,10 @@
 package com.mereder.Algs_Exercise.Exercises1_1;
 
 import java.util.Scanner;
-
+/**
+ * 编写一个程序，从命令行得到三个整数参数，如果他们都相等打印equal
+ * 否则打印 not equal
+ */
 public class E_3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

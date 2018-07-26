@@ -1,7 +1,5 @@
 package com.mereder.Algs_Exercise.Exercises1_1;
 
-import javax.swing.*;
-
 /**
  * 二项分布：
  * 估计用以下代码计算binomial(100,50,0.25) 将会产生的递归调用次数
