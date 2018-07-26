@@ -55,7 +55,6 @@ public class E_12 {
             if (y % 100 == 0) return false;
             return y % 4 == 0;
         }
-
         /** Zeller Formula
          * @return
          */
