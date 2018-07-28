@@ -1,6 +1,5 @@
 package com.mereder.Algs_Exercise.Exercises1_2;
 
-
 import edu.princeton.cs.algs4.Point2D;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdRandom;
