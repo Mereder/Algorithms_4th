@@ -59,6 +59,22 @@ public class Queue<Item> implements Iterable<Item> {
         n = 0;
     }
 
+    /**队列复制
+     * @param copyqueue
+     */
+    public Queue(Queue<Item> copyqueue) {
+        first = null;
+        last  = null;
+        n = 0 ;
+        int count = copyqueue.n;
+        while (count != 0){
+            Item temp = copyqueue.dequeue();
+            copyqueue.enqueue(temp);
+            this.enqueue(temp);
+            count--;
+        }
+    }
+
     /**
      * Returns true if this queue is empty.
      *
@@ -167,6 +183,8 @@ public class Queue<Item> implements Iterable<Item> {
      * @param args the command-line arguments
      */
     public static void main(String[] args) {
+
+
         Queue<String> queue = new Queue<String>();
         while (!StdIn.isEmpty()) {
             String item = StdIn.readString();
