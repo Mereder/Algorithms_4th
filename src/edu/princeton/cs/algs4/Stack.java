@@ -65,6 +65,25 @@ public class Stack<Item> implements Iterable<Item> {
         n = 0;
     }
 
+    public Stack(Stack<Item> copystack) {
+        first = null;
+        n = 0;
+        int count = copystack.n;
+        int N = count;
+        Stack<Item> temp = new Stack<>();
+        while(count != 0){
+            temp.push(copystack.pop());
+            count--;
+        }
+
+        while(N != 0){
+            Item item = temp.pop();
+            this.push(item);
+            copystack.push(item);
+            N--;
+        }
+    }
+
     /**
      * Returns true if this stack is empty.
      *
