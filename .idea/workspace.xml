@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbd29597-ff0a-4a8c-bdcf-892cdd617e20" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_08_A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_08_B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/IndexMini_BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/StopWatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_5/UF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/princeton/cs/algs4/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/StaticSETofInts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,24 +22,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FileList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_3/FileList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="E_07.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_07.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="E_08_A.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_08_A.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,11 +46,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexMini_BinarySearch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="IndexMini_BinarySearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/IndexMini_BinarySearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="97">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state relative-caret-position="304">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticSETofInts.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/StaticSETofInts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="758">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+              <folding>
+                <element signature="e#2027#2028#0" expanded="true" />
+                <element signature="e#2065#2066#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="E_12.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_12.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -158,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_3/E_15.java" />
-        <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_3/E_17.java" />
         <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_3/E_16.java" />
         <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_3/E_18.java" />
         <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_3/E_19.java" />
@@ -209,6 +203,8 @@
         <option value="$PROJECT_DIR$/src/edu/princeton/cs/algs4/BinarySearch.java" />
         <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_08_B.java" />
         <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/IndexMini_BinarySearch.java" />
+        <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/StaticSETofInts.java" />
+        <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_12.java" />
       </list>
     </option>
   </component>
@@ -221,7 +217,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="69" />
     <option name="y" value="8" />
     <option name="width" value="1284" />
@@ -307,7 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IndexMini_BinarySearch">
+  <component name="RunManager" selected="Application.E_12">
     <configuration name="E_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.mereder.Algs_Exercise.Exercises1_4.E_05" />
       <module name="Algorithms_4th" />
@@ -330,8 +326,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="IndexMini_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mereder.Algs_Exercise.Exercises1_4.IndexMini_BinarySearch" />
+    <configuration name="E_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mereder.Algs_Exercise.Exercises1_4.E_12" />
       <module name="Algorithms_4th" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -341,13 +337,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RandomBag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mereder.Algs_Exercise.Exercises1_3.RandomBag" />
+    <configuration name="IndexMini_BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mereder.Algs_Exercise.Exercises1_4.IndexMini_BinarySearch" />
       <module name="Algorithms_4th" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mereder.Algs_Exercise.Exercises1_3.*" />
+          <option name="PATTERN" value="com.mereder.Algs_Exercise.Exercises1_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -412,19 +408,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Unnamed" />
-      <item itemvalue="Application.RandomBag" />
       <item itemvalue="Application.StopWatch" />
       <item itemvalue="Application.E_05" />
       <item itemvalue="Application.E_08_A" />
       <item itemvalue="Application.IndexMini_BinarySearch" />
+      <item itemvalue="Application.E_12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E_12" />
         <item itemvalue="Application.IndexMini_BinarySearch" />
         <item itemvalue="Application.E_08_A" />
         <item itemvalue="Application.E_05" />
         <item itemvalue="Application.StopWatch" />
-        <item itemvalue="Application.RandomBag" />
       </list>
     </recent_temporary>
   </component>
@@ -469,12 +465,12 @@
       <workItem from="1537281561353" duration="3483000" />
       <workItem from="1537352807031" duration="3324000" />
       <workItem from="1537407463706" duration="4146000" />
-      <workItem from="1537445189964" duration="2865000" />
+      <workItem from="1537445189964" duration="4859000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="297926000" />
+    <option name="totallyTimeSpent" value="299920000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,7 +483,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972136" />
@@ -509,7 +504,7 @@
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3978328" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3978328" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32936507" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
@@ -578,12 +573,6 @@
           <properties />
           <option name="timeStamp" value="86" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/IndexMini_BinarySearch.java</url>
-          <line>26</line>
-          <properties />
-          <option name="timeStamp" value="94" />
-        </line-breakpoint>
       </breakpoints>
       <option name="time" value="95" />
     </breakpoint-manager>
@@ -608,20 +597,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_3/E_07.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_3/E_08.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="16" column="13" selection-end-line="69" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_3/E_09.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="464">
@@ -973,8 +948,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/IndexMini_BinarySearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="304">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/StaticSETofInts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="758">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#2027#2028#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_12.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
