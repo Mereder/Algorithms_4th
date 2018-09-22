@@ -14,7 +14,7 @@
   * #### [1.1 Programming Model](https://github.com/Mereder/Algorithms_4th/tree/master/src/com/mereder/Algs_Exercise/Exercises1_1 )  <br />
   * #### [1.2 Data Abstraction](https://github.com/Mereder/Algorithms_4th/tree/master/src/com/mereder/Algs_Exercise/Exercises1_2 ) <br />
   * #### [1.3 Bags, Queues, and Stacks](https://github.com/Mereder/Algorithms_4th/tree/master/src/com/mereder/Algs_Exercise/Exercises1_3 )<br />
-  * #### 1.4 Analysis of Algorithms
+  * #### [1.4 Analysis of Algorithms](https://github.com/Mereder/Algorithms_4th/tree/master/src/com/mereder/Algs_Exercise/Exercises1_4 )<br />
   * #### 1.5 Case Study: Union-Find
 
 
