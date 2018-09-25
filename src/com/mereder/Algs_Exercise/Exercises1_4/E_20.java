@@ -1,7 +1,5 @@
 package com.mereder.Algs_Exercise.Exercises1_4;
 
-import edu.princeton.cs.algs4.BinarySearch;
-
 /**
  *
  *  双调查找:
