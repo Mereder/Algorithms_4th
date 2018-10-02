@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fbd29597-ff0a-4a8c-bdcf-892cdd617e20" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_25.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,12 +78,8 @@
       <file leaf-file-name="E_24.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_24.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-254">
-              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-              <folding>
-                <element signature="e#1390#1391#0" expanded="true" />
-                <element signature="e#1423#1424#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="660">
+              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -91,8 +87,12 @@
       <file leaf-file-name="E_25.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="176">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+              <folding>
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#306#307#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -195,8 +195,8 @@
         <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_19.java" />
         <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_22.java" />
         <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_23.java" />
-        <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_25.java" />
         <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_24.java" />
+        <option value="$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_25.java" />
       </list>
     </option>
   </component>
@@ -224,6 +224,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -260,7 +261,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -466,11 +466,12 @@
       <workItem from="1538232270194" duration="2443000" />
       <workItem from="1538320847999" duration="1340000" />
       <workItem from="1538403551453" duration="3362000" />
+      <workItem from="1538493327188" duration="1942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="327741000" />
+    <option name="totallyTimeSpent" value="329683000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,7 +487,6 @@
     <layout>
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972136" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32817337" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
@@ -498,7 +498,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32972136" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6635945" visible="true" weight="0.2484127" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6635945" visible="true" weight="0.25238097" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="1" sideWeight="0.33640552" side_tool="true" weight="0.21507937" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
@@ -506,44 +506,45 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978328" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32936507" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32817337" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32817337" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32972136" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32817337" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32817337" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23253968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32972136" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32817337" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32972136" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3978328" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32817337" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -958,19 +959,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_24.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-254">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="e#1390#1391#0" expanded="true" />
-            <element signature="e#1423#1424#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="660">
+          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/mereder/Algs_Exercise/Exercises1_4/E_25.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        <state relative-caret-position="176">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
