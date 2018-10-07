@@ -5,6 +5,11 @@ import edu.princeton.cs.algs4.Stack;
 import java.util.NoSuchElementException;
 
 
+/**
+ * 两个栈实现的队列。
+ *
+ * 用两个栈实现一个队列，使得每个队列操作所需要的堆栈操作均摊后为一个常数。
+ */
 public class E_27 {
     public static class StackQueue<Item>{
         public Stack<Item> L;  //出队
